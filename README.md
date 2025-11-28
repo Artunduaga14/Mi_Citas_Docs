@@ -5,13 +5,57 @@ Su objetivo principal es **optimizar el proceso de agendamiento, consulta y cont
 
 ---
 
-## 📁 Repositorios del Proyecto
+## 🌐 Despliegues en Producción
 
-- **Backend:** [Appointments-Project-Back](https://github.com/MauricioNoscue/Appointments-Project-Back.git)  
-- **Frontend Web:** [Appointments-Project-Frontend](https://github.com/MauricioNoscue/Appoinments-Project-Frontend.git)  
-- **Aplicación Móvil:** [Mi Citas App](https://github.com/Artunduaga14/Mi_Citas_App.git)
+- **Frontend Web (Azure Static Web Apps):**  
+  https://agreeable-wave-005351610.3.azurestaticapps.net/
+
+- **Backend API (AWS EC2):**  
+  https://98.95.54.163/swagger/index.html
+
+---
+
+## 📁 Repositorios del Proyecto  
+> 🔀 **La rama final y principal de trabajo en todos los repositorios es `develop`.**
+
+- **Backend (`develop`):**  
+  https://github.com/MauricioNoscue/Appointments-Project-Back.git  
+
+- **Frontend Web (`develop`):**  
+  https://github.com/MauricioNoscue/Appoinments-Project-Frontend.git  
+
+- **Aplicación Móvil (`develop`):**  
+  https://github.com/Artunduaga14/Mi_Citas_App.git
+
+---
+
+## 🔧 Flujo de Trabajo Git
+
+### 🔹 Ramas Principales
+
+- **develop**  
+  Rama principal donde se integra todo el desarrollo.  
+  👉 *Es la rama final del proyecto.*
+
+- **main**  
+  Rama estable solo para despliegues (si se usa).
+
+---
+
+### 🔹 Ramas Secundarias
+
+- **feature/nombre-funcionalidad**  
+  Para nuevas funcionalidades.  
+  Se crean desde `develop` y regresan a `develop`.
+
+- **fix/nombre-arreglo**  
+  Para corregir errores del desarrollo.
+
+- **hotfix/nombre-crítico**  
+  Para corregir errores urgentes en producción.
 
 ---
 
 ## 🎯 Objetivo General
+
 Desarrollar una aplicación moderna y confiable que facilite la gestión de citas médicas, mejorando la comunicación entre pacientes y doctores, y digitalizando los procesos de atención en el municipio de **Teruel**.
