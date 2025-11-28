@@ -29,6 +29,17 @@ Su objetivo principal es **optimizar el proceso de agendamiento, consulta y cont
 
 ---
 
+## 👥 Participantes del Proyecto
+
+- **Juan David Artunduaga Gómez**  
+- **Esteban Palomar Murcia**  
+- **Andres Mauricio Noscue Cerquera**  
+
+**Ficha ADSO:** 2900177
+
+---
+
+
 ## 🎯 Objetivo General
 
 Desarrollar una aplicación moderna y confiable que facilite la gestión de citas médicas, mejorando la comunicación entre pacientes y doctores, y digitalizando los procesos de atención en el municipio de **Teruel**.
