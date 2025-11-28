@@ -39,7 +39,7 @@ Su objetivo principal es **optimizar el proceso de agendamiento, consulta y cont
 
 ---
 
-
 ## 🎯 Objetivo General
 
-Desarrollar una aplicación moderna y confiable que facilite la gestión de citas médicas, mejorando la comunicación entre pacientes y doctores, y digitalizando los procesos de atención en el municipio de **Teruel**.
+Desarrollar una aplicación que brinde el servicio de seguimiento y gestión de citas médicas, permitiendo la interacción entre tres roles principales: administrador, doctor y paciente.
+
