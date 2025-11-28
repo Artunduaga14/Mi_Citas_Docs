@@ -29,33 +29,6 @@ Su objetivo principal es **optimizar el proceso de agendamiento, consulta y cont
 
 ---
 
-## 🔧 Flujo de Trabajo Git
-
-### 🔹 Ramas Principales
-
-- **develop**  
-  Rama principal donde se integra todo el desarrollo.  
-  👉 *Es la rama final del proyecto.*
-
-- **main**  
-  Rama estable solo para despliegues (si se usa).
-
----
-
-### 🔹 Ramas Secundarias
-
-- **feature/nombre-funcionalidad**  
-  Para nuevas funcionalidades.  
-  Se crean desde `develop` y regresan a `develop`.
-
-- **fix/nombre-arreglo**  
-  Para corregir errores del desarrollo.
-
-- **hotfix/nombre-crítico**  
-  Para corregir errores urgentes en producción.
-
----
-
 ## 🎯 Objetivo General
 
 Desarrollar una aplicación moderna y confiable que facilite la gestión de citas médicas, mejorando la comunicación entre pacientes y doctores, y digitalizando los procesos de atención en el municipio de **Teruel**.
