@@ -41,5 +41,5 @@ Su objetivo principal es **optimizar el proceso de agendamiento, consulta y cont
 
 ## 🎯 Objetivo General
 
-Desarrollar una aplicación que brinde el servicio de seguimiento y gestión de citas médicas, permitiendo la interacción entre tres roles principales: administrador, doctor y paciente.
+Desarrollar una aplicación que brinde el servicio de seguimiento y gestión de citas médicas, permitiendo la interacción entre tres roles : administrador, doctor y paciente.
 
