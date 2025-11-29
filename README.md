@@ -5,13 +5,41 @@ Su objetivo principal es **optimizar el proceso de agendamiento, consulta y cont
 
 ---
 
-## 📁 Repositorios del Proyecto
+## 🌐 Despliegues en Producción
 
-- **Backend:** [Appointments-Project-Back](https://github.com/MauricioNoscue/Appointments-Project-Back.git)  
-- **Frontend Web:** [Appointments-Project-Frontend](https://github.com/MauricioNoscue/Appoinments-Project-Frontend.git)  
-- **Aplicación Móvil:** [Mi Citas App](https://github.com/Artunduaga14/Mi_Citas_App.git)
+- **Frontend Web (Azure Static Web Apps):**  
+  https://agreeable-wave-005351610.3.azurestaticapps.net/
+
+- **Backend API (AWS EC2):**  
+  https://98.95.54.163/swagger/index.html
+
+---
+
+## 📁 Repositorios del Proyecto  
+> 🔀 **La rama final y principal de trabajo en todos los repositorios es `develop`.**
+
+- **Backend (`develop`):**  
+  https://github.com/MauricioNoscue/Appointments-Project-Back.git  
+
+- **Frontend Web (`develop`):**  
+  https://github.com/MauricioNoscue/Appoinments-Project-Frontend.git  
+
+- **Aplicación Móvil (`develop`):**  
+  https://github.com/Artunduaga14/Mi_Citas_App.git
+
+---
+
+## 👥 Participantes del Proyecto
+
+- **Juan David Artunduaga Gómez**  
+- **Esteban Palomar Murcia**  
+- **Andres Mauricio Noscue Cerquera**  
+
+**Ficha ADSO:** 2900177
 
 ---
 
 ## 🎯 Objetivo General
-Desarrollar una aplicación moderna y confiable que facilite la gestión de citas médicas, mejorando la comunicación entre pacientes y doctores, y digitalizando los procesos de atención en el municipio de **Teruel**.
+
+Desarrollar una aplicación que brinde el servicio de seguimiento y gestión de citas médicas, permitiendo la interacción entre tres roles : administrador, doctor y paciente.
+
