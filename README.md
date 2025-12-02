@@ -11,7 +11,7 @@ Su objetivo principal es **optimizar el proceso de agendamiento, consulta y cont
   https://agreeable-wave-005351610.3.azurestaticapps.net/
 
 - **Backend API (AWS EC2):**  
-  https://98.95.54.163/swagger/index.html
+  https://api.cita-hospital.site/swagger/index.html
 
 ---
 
